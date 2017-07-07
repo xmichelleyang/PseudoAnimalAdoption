@@ -1,0 +1,16 @@
+li {
+    color: saddlebrown;
+
+}
+
+h1 {
+    font-family: Georgia, Century Gothic, sans-serif;
+}
+
+p, li {
+    font-family: Arial;
+}
+
+#special {
+    font-family: cursive;
+}
